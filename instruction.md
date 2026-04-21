@@ -1,7 +1,7 @@
 # 🚀 IMMORTAL DEVELOPER SYSTEM INSTRUCTION
 ## Web Developer & Designer — Zero to Income — Complete Roadmap
 
----
+-----------------------------------------------------------------------------
 
 > ⚠️ AI UPDATE PROTOCOL (এই section টা যেকোনো AI কে পড়তে হবে সবার আগে):
 >
